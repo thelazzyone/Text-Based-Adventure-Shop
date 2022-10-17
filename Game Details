@@ -1,0 +1,37 @@
+Inventory (max 10 to start, then to 50)
+
+//display about 10 items
+//Sell shows your inventory
+Weapon Shop
+  Buy & Sell
+Armor Shop
+  Buy & Sell
+
+Item detials:
+  type(weapon/armor)  rarity  name  level attack/armor  additional status(list)
+
+
+
+
+Main
+  -check if there is a save file
+    New Game (either override or create save file)
+    Load (read save file)
+   
+   -copy player info
+      -name
+      -level
+      -race
+      -job
+      -cash
+      
+      -inventory
+   
+   -ask what you want to do
+      -inventory
+      -Weapon Shop
+      -Armor Shop
+      
+      (secret choice: moneyBad)
+        -gives user 10000 coins
+-
