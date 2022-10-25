@@ -1,7 +1,22 @@
 10/17/22
   Starting Point:
     3:47
-      -creating a readme about project
-      -creating a activity log to keep track on progess
-      -create game detail file
-      -create future goal file
+      -created a readme about project
+      -created a activity log to keep track on progess
+      -created game detail file
+      -created future goal file
+10/25/22
+  Adding code
+    4:35 - 6:22
+      -added 5 files with little to no code
+        LoadingGame: the main where things will run
+          -trying to read user input
+          -trying to clear console/terminal
+        PlayerInfo: the default information of players
+          -basic idea of how player information will store
+        Inventory: the file to hold information of player inventory
+          -nothing
+        armorGenerator: generate armor for shop
+          -nothing
+        weaponGenerator: generate weapon for shop
+          -nothing
